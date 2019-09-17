@@ -1,0 +1,3 @@
+// class para teste 2
+main():
+  print("Teste 2")
