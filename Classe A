@@ -1,0 +1,3 @@
+//class de teste
+main():
+  print("Tudo não passa de um teste")
